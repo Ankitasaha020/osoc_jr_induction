@@ -1,0 +1,48 @@
+commit 3f45eaf811f45c8425b6ddf806d99e2cda5d340a
+Author: ankita <ankitasaha250@gmail.com>
+Date:   Thu Jan 6 20:39:18 2022 +0530
+
+    added screen shot folder
+
+commit 0883299d3e5e57a830f5bed650b877e4107459b5
+Author: ankita <ankitasaha250@gmail.com>
+Date:   Thu Jan 6 20:36:15 2022 +0530
+
+    added merge resolve txt.file
+
+commit 823d14e0f84e8bd9e5afa3b2ef507e1d8c23144f
+Merge: 24fc696 5003eaa
+Author: ankita <ankitasaha250@gmail.com>
+Date:   Thu Jan 6 20:27:14 2022 +0530
+
+    Merge branch 'branch1'
+
+commit 24fc69636d3ab78b57f6ea178009a90842523b6b
+Author: ankita <ankitasaha250@gmail.com>
+Date:   Thu Jan 6 20:26:55 2022 +0530
+
+    resolve merge conflict
+
+commit 597bde2d0a9870016979a9859662e80a745a5478
+Author: ankita <ankitasaha250@gmail.com>
+Date:   Thu Jan 6 20:18:17 2022 +0530
+
+    modify redme.md on main to make merge conflict
+
+commit 5003eaa05c14b1dcf7480e075b708d25150218bc
+Author: ankita <ankitasaha250@gmail.com>
+Date:   Thu Jan 6 20:15:51 2022 +0530
+
+    modify redme.md on branch1 to make merge conflict
+
+commit fd76594e1c0252e65577d1d01c5a6d2ba398f8de
+Author: ankita <ankitasaha250@gmail.com>
+Date:   Thu Jan 6 20:13:46 2022 +0530
+
+    added command.txt
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
